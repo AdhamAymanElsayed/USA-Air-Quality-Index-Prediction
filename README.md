@@ -1,1 +1,1 @@
-# United-States-Air-Quality-Index-Predicttion
+# USA-Air-Quality-Index-Prediction
