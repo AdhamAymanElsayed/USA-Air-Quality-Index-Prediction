@@ -1,6 +1,6 @@
 numpy
 pandas
-scikit_learn == 1.0.2
+scikit_learn
 streamlit
 seaborn
 category_encoders
