@@ -24,7 +24,7 @@ Dataset [here](https://www.kaggle.com/datasets/calebreigada/us-air-quality-1980p
 - In California, most effective parameter in winter months is pm 2.5
 
 
-# -------------------------------
+# 
 
 ### Tools used in this Project?
 
