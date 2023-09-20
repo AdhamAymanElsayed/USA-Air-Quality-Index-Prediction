@@ -1,7 +1,9 @@
 numpy
 pandas == 2.0
-scikit_learn
-streamlit
+scikit_learn==0.22.1
+scikit_learn==1.0.2
+streamlit==1.21.0
+streamlit==1.19.0
 seaborn
 category_encoders
 pickle4
