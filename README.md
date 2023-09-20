@@ -9,3 +9,9 @@ Streamlit app [here](https://usa-air-quality-index-prediction-phfhunqvzcaz92smnc
 
 Dataset [here](https://www.kaggle.com/datasets/calebreigada/us-air-quality-1980present)
 
+# ## Tools used in this Project?
+
+* numpy
+* pandas
+* scikit_learn
+* streamlit
