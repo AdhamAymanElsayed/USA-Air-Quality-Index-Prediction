@@ -1,4 +1,7 @@
 numpy
 pandas
-scikit_learn
+scikit_learn == 1.0.2
 streamlit
+seaborn
+category_encoders
+pickle4
