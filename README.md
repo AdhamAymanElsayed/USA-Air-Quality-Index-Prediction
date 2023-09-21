@@ -1,5 +1,5 @@
 # USA-Air-Quality-Index-Prediction
-AQI or Air Quality Index is the primary way to measure the current quality of the air. AQI values range from 0-500. AQI values are derived from moving averages/current values of PM2.5 (particulate matter), PM10, Ozone, Carbon Monoxide, Sulfur Dioxide, and Nitrogen Dioxide levels.
+AQI or Air Quality Index is the primary way to measure the current quality of the air. AQI values range from 0-500. The higher the AQI value, the greater the level of air pollution and the greater the health concern. For example, an AQI value of 50 or below represents good air quality, while an AQI value over 300 represents hazardous air quality. AQI values are derived from moving averages/current values of PM2.5 (particulate matter), PM10, Ozone, Carbon Monoxide, Sulfur Dioxide, and Nitrogen Dioxide levels.
 #
 Streamlit app [here](https://usa-air-quality-index-prediction-phfhunqvzcaz92smncu9fl.streamlit.app/)
 
